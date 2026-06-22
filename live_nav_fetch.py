@@ -1,5 +1,5 @@
 """
-fetch_live_nav.py
+live_nav_fetch.py
 =================
 Fetches live NAV data from mfapi.in API for 5 selected mutual fund schemes.
 
